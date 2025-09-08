@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marvelous-pika-07e6d7.netlify.app/sitemap.xml
